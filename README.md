@@ -1,5 +1,9 @@
 # Employee Attrition Analytics
 
+🚀 **[Live Dashboard](https://employee-attrition-analytics-j9unz5sn4bgwew6uant6p7.streamlit.app/)**
+
+An interactive HR analytics dashboard built with Python, Streamlit and statistical analysis.
+
 A recruiter-ready HR analytics project focused on **employee attrition, high-risk roles, overtime exposure and statistical evidence**.
 
 ## Business question
